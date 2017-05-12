@@ -13,13 +13,20 @@
 - package: adição ou alteração nas dependências do projeto
 - issue: normalmente usado no footer ou no título para referenciar id da issue resolvida ou concluída
 
-## Titulo
+## Title
+#### Titulo do Commit (Obrigatório)
 
-- Os titulos devem ser escritos com foco na atualização principal e mais importante efetuada.
+- Os titulos devem ser escritos com foco na atualização principal efetuada no commit e pode conter também o id da issue para rastreamento.
 
-## Corpo
+## Body
+#### Corpo do Commit (Obrigatório)
 
 - No corpo da mensagem deve conter detalhado todos os pontos principais e secundários.
+
+## Footer
+#### Rodapé do Commit (Opcional)
+
+- Pode conter id da issue para rastreamento ou observaçes gerais sobre o commit.
 
 Exemplo commit com nova funcionalidade:
 
